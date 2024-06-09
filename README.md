@@ -1,4 +1,4 @@
-# Vrinda_Store_Analysis_usingExcel
+# Vrinda_Store_Analysis_usingExcel_&_PowerBI
 Analysis of Vrinda Store Data to improve more Sales in 2023
 
 
